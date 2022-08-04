@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @xavierremigiocordovagarzon
+- 👀 I’m interested in learning more about programing in different programing languages
+- 🌱 I’m currently learning HTML, CSS, Java, C++, Python, JavaScript
+- 📫 How to reach me xaviercordova2001@outlook.com 
